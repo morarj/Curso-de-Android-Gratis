@@ -23,7 +23,7 @@ app     Mostly of all cases are here
 
 gradle  Fetchs and Configures
     build.gradle(Module App)    - Sometimes requires config
-        versionName   <- For the Playstore
+        versionName     <- For the Playstore
 
-        dependencies    <- Wich thing we're using on our application
+        dependencies    <- Which things we're using on our application
                           (Example: Maps)
