@@ -1,0 +1,17 @@
+Start a new android project
+
+Aplication Name
+Company Domain    - Unique Package Name
+                  - Ej. "com.hugomorarj.app.codigo.facilito"
+
+SDK 4.0.3 - +90% del mercado Android
+
+Basic Activity
+    Activity Name:      (Main Activity es la principal)
+    Layout Name:
+    Title:
+    Menu Resource Name:
+
+
+MainActivity:   Java/.../MainActivity
+activity_main:  res/layout/activity_main.xml
