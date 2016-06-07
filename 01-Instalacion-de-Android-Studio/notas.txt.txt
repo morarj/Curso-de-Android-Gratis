@@ -1,0 +1,8 @@
+Get the following tools:
+    Java JDK 8
+    http://www.oracle.com/technetwork/java/javase/downloads/jdk8-downloads-2133151.html
+
+    Android studio
+    https://developer.android.com/studio/index.html
+
+    Update Android Studio
