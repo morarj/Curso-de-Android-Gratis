@@ -1,0 +1,29 @@
+Android Structure
+
+app     Mostly of all cases are here
+    manifests
+        AndroidManifest   <-  Backbone of our app
+                              Name, Icon, Label, Theme
+                              Activity
+                                Name
+                                Action
+                                Category  - Only one launcher (Main Activity)
+                                            Tells wich one is the launcher
+    java
+        MainActivity  <-  Code for our project
+    res
+        drawable  <-  Images
+        layout    <-  UI (*.xml)
+        menu
+        bitmap    <- App icon
+        values
+            dimens
+            strings.xml   <-    Every String
+            styles.xml    <-    Design of our app
+
+gradle  Fetchs and Configures
+    build.gradle(Module App)    - Sometimes requires config
+        versionName   <- For the Playstore
+
+        dependencies    <- Wich thing we're using on our application
+                          (Example: Maps)
