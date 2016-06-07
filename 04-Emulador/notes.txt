@@ -1,0 +1,9 @@
+Emulador
+
+SDK Manager
+    Extras    <-    For previous versions
+    PlayStore <-    Support for maps, payment, etc
+
+    Download Tools & Extras
+
+AVD Manager   <-    Virtual devices
